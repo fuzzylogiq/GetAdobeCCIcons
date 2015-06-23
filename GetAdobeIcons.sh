@@ -6,9 +6,9 @@
 # and convert into png format
 
 # Acrobat Pro 11
-APP="/Applications/Adobe Acrobat XI Pro/Adobe Acrobat Pro.app"
+APP="/Applications/Adobe Acrobat DC/Adobe Acrobat.app"
 APP_ICON="ACP_App.icns"
-OUTPUT_PNG="AdobeAcrobatPro11.png"
+OUTPUT_PNG="AdobeAcrobatDC.png"
 
 if [[ -d "$APP" ]]; then
 	/usr/bin/sips -s format png "$APP/Contents/Resources/$APP_ICON" --out "$1/$OUTPUT_PNG"
