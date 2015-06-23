@@ -15,7 +15,7 @@ if [[ -d "$APP" ]]; then
 fi
 
 # After Effects CC 2014
-APP="/Applications/Adobe After Effects CC 2014/Adobe After Effects CC 2014.app"
+APP="/Applications/Adobe After Effects CC 2015/Adobe After Effects CC 2015.app"
 APP_ICON="App.icns"
 OUTPUT_PNG="AdobeAfterEffectsCC.png"
 
@@ -24,7 +24,7 @@ if [[ -d "$APP" ]]; then
 fi
 
 # Audition CC
-APP="/Applications/Adobe Audition CC 2014/Adobe Audition CC 2014.app"
+APP="/Applications/Adobe Audition CC 2015/Adobe Audition CC 2015.app"
 APP_ICON="appIcon.icns"
 OUTPUT_PNG="AdobeAuditionCC.png"
 
@@ -42,7 +42,7 @@ if [[ -d "$APP" ]]; then
 fi
 
 # Dreamweaver CC
-APP="/Applications/Adobe Dreamweaver CC 2014.1/Adobe Dreamweaver CC 2014.1.app"
+APP="/Applications/Adobe Dreamweaver CC 2015/Adobe Dreamweaver CC 2015.app"
 APP_ICON="Dreamweaver.icns"
 OUTPUT_PNG="AdobeDreamweaverCC.png"
 
@@ -51,7 +51,7 @@ if [[ -d "$APP" ]]; then
 fi
 
 # Edge Animate
-APP="/Applications/Adobe Edge Animate CC 2014.1/Adobe Edge Animate CC 2014.1.app"
+APP="/Applications/Adobe Edge Animate CC 2015/Adobe Edge Animate CC 2015.app"
 APP_ICON="appIcon.icns"
 OUTPUT_PNG="AdobeEdgeAnimateCC.png"
 
@@ -114,7 +114,7 @@ if [[ -d "$APP" ]]; then
 fi
 
 # Flash CC
-APP="/Applications/Adobe Flash CC 2014/Adobe Flash CC 2014.app"
+APP="/Applications/Adobe Flash CC 2015/Adobe Flash CC 2015.app"
 APP_ICON="appIcon.icns"
 OUTPUT_PNG="AdobeFlashCC.png"
 
@@ -123,7 +123,7 @@ if [[ -d "$APP" ]]; then
 fi
 
 # Illustrator CC
-APP="/Applications/Adobe Illustrator CC 2014/Adobe Illustrator.app"
+APP="/Applications/Adobe Illustrator CC 2015/Adobe Illustrator.app"
 APP_ICON="ai_cc_appicon_hidpi.icns"
 OUTPUT_PNG="AdobeIllustratorCC.png"
 
@@ -132,7 +132,7 @@ if [[ -d "$APP" ]]; then
 fi
 
 # InDesign CC
-APP="/Applications/Adobe InDesign CC 2014/Adobe InDesign CC 2014.app"
+APP="/Applications/Adobe InDesign CC 2015/Adobe InDesign CC 2015.app"
 APP_ICON="ID_App_Icon@2x.icns"
 OUTPUT_PNG="AdobeInDesignCC.png"
 
@@ -141,7 +141,7 @@ if [[ -d "$APP" ]]; then
 fi
 
 # Media Encoder CC
-APP="/Applications/Adobe Media Encoder CC 2014/Adobe Media Encoder CC 2014.app"
+APP="/Applications/Adobe Media Encoder CC 2015/Adobe Media Encoder CC 2015.app"
 APP_ICON="ame_appicon.icns"
 OUTPUT_PNG="AdobeMediaEncoderCC.png"
 
@@ -150,7 +150,7 @@ if [[ -d "$APP" ]]; then
 fi
 
 # Muse CC
-APP="/Applications/Adobe Muse CC 2014/Adobe Muse CC 2014.app"
+APP="/Applications/Adobe Muse CC 2015/Adobe Muse CC 2015.app"
 APP_ICON="mu_appIcon.icns"
 OUTPUT_PNG="AdobeMediaEncoderCC.png"
 
@@ -159,7 +159,7 @@ if [[ -d "$APP" ]]; then
 fi
 
 # Lightroom
-APP="/Applications/Adobe Photoshop Lightroom 5.app"
+APP="/Applications/Adobe Lightroom/Adobe Lightroom.app"
 APP_ICON="App.icns"
 OUTPUT_PNG="AdobeLightroom.png"
 
@@ -168,7 +168,7 @@ if [[ -d "$APP" ]]; then
 fi
 
 # Prelude CC
-APP="/Applications/Adobe Prelude CC 2014/Adobe Prelude CC 2014.app"
+APP="/Applications/Adobe Prelude CC 2015/Adobe Prelude CC 2015.app"
 APP_ICON="pl_app@2x.icns"
 OUTPUT_PNG="AdobePreludeCC.png"
 
@@ -177,7 +177,7 @@ if [[ -d "$APP" ]]; then
 fi
 
 # Premiere Pro CC
-APP="/Applications/Adobe Premiere Pro CC 2014/Adobe Premiere Pro CC 2014.app"
+APP="/Applications/Adobe Premiere Pro CC 2015/Adobe Premiere Pro CC 2015.app"
 APP_ICON="pr_app_icons.icns"
 OUTPUT_PNG="AdobePremiereProCC.png"
 
@@ -195,7 +195,7 @@ if [[ -d "$APP" ]]; then
 fi
 
 # SpeedGrade CC
-APP="/Applications/Adobe SpeedGrade CC 2014/Adobe SpeedGrade CC 2014.app"
+APP="/Applications/Adobe SpeedGrade CC 2015/Adobe SpeedGrade CC 2015.app"
 APP_ICON="SpeedGrade.icns"
 OUTPUT_PNG="AdobeSpeedGradeCC.png"
 
