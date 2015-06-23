@@ -169,8 +169,8 @@ fi
 
 # Muse CC
 APP="/Applications/Adobe Muse CC 2015/Adobe Muse CC 2015.app"
-APP_ICON="mu_appIcon.icns"
-OUTPUT_PNG="Adobe-Media-Encoder-CC.png"
+APP_ICON="appIcon.icns"
+OUTPUT_PNG="Adobe-Muse-CC.png"
 
 if [[ -d "$APP" ]]; then
 	/usr/bin/sips -s format png "$APP/Contents/Resources/$APP_ICON" --out "$1/$OUTPUT_PNG"
